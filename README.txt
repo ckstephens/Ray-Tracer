@@ -1,6 +1,3 @@
-Assignment 5
-Caleb Stephens
+A ray tracer that uses phong shading and works with reflective surfaces.
 
-Everything is according to the rubric.
-I made an attempt at the area light, it can be enabled by adding "area" to command line.
-It will take maybe 7 seconds to render.
+The file "Output.jpg" is what this program will produce by default.
